@@ -1,0 +1,65 @@
+#welcome{
+	height: 800px;
+	color: black;
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+	width: 100%
+		height:100%;
+	z-index: 9;
+	
+}
+body {
+	text-align: center;
+    
+		
+}
+
+img{
+	border-radius: 20px;
+	height: 500px;}
+p{
+	background-color: cyan;
+	line-height: 2;
+	font-size: 20px;
+	font-family: 'Nanum Brush Script', cursive;
+	
+}
+.line{
+	height: 10px;
+	width: 100px;
+	background-color: black;
+	text-align: center;
+margin: 8px auto;
+}
+.menu{
+	list-style: none;
+	position: absolute;
+	top: 10px;
+	right: 30px;
+	cursor: pointer;
+	z-index: 10;
+}
+.links{
+	display: inline;
+	padding-left:10px;
+  padding-right: 10px;
+padding-top:20px;
+	padding-bottom: 20px;
+	margin-top: 10px;
+	font-size: 20;
+	background-color: crimson;
+}
+head{
+	display: block;
+	margin-bottom: 100px;
+}
+.links:hover{
+	background-color: beige;s
+}
+h1{
+	font-family: 'Alex Brush', cursive;
+font-family: 'Nanum Brush Script', cursive;
+}
+h2{
+	font-family: 'Alex Brush', cursive;
+font-family: 'Nanum Brush Script', cursive;
+}
