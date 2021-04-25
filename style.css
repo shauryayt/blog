@@ -36,6 +36,7 @@ margin: 8px auto;
 	top: 10px;
 	right: 30px;
 	cursor: pointer;
+	float: right;
 	z-index: 10;
 }
 .links{
@@ -53,7 +54,7 @@ head{
 	margin-bottom: 100px;
 }
 .links:hover{
-	background-color: beige;s
+	background-color:chocolate;
 }
 h1{
 	font-family: 'Alex Brush', cursive;
